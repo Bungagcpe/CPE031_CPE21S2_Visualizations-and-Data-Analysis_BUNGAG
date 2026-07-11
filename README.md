@@ -7,7 +7,7 @@
 <p align="center">📌Data Sets</p>
 <p align="center">📌Laboratory Reports</p>
 <p align="center">📌Python-Related Works</p>
-## <h1 align="center">👑Owner👑</h1>
+<h1 align="center">👑Owner👑</h1>
 <p align="center"><i>Bungag, Marc Jhowell M.</i></p>
 <p align="center"><i>Computer Engineering Student</i></p>
 <p align="center"><i>Technological Institute of the Philippines</i></p>
