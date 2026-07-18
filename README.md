@@ -2,13 +2,19 @@
 <p align="center"><i>This repository is only for CPE031 contents. Projects and Works will be uploaded here.</i></p>
 
 ## <h1 align="center">📊Contents📊</h1>
-<p align="center">📌Coding Activities</p>
-<p align="center">📌Projects</p>
-<p align="center">📌Data Sets</p>
-<p align="center">📌Laboratory Reports</p>
-<p align="center">📌Python-Related Works</p>
+📌Coding Activities
+📌Projects
+📌Data Sets
+📌Laboratory Reports
+📌Python-Related Works
 
-<h1 align="center">👑Owner👑</h1>
-<p align="center"><i>Bungag, Marc Jhowell M.</i></p>
-<p align="center"><i>Computer Engineering Student</i></p>
-<p align="center"><i>Technological Institute of the Philippines</i></p>
+## <h1 align="center">🌐Language Used🌐</h1>
+<img width="700" height="393" alt="image" src="https://github.com/user-attachments/assets/9d3bdc2c-8cc1-4986-834b-eaa9b66d824f" />
+
+## <h1 align="center">🖳Projects Available Here:🖳</h1>
+https://drive.google.com/drive/folders/1_rtj7mAoqqV-7PEAyY6t0Jh8Kblcm_db?usp=sharing
+
+## <h1 align="center">👑Owner👑</h1>
+<i>Bungag, Marc Jhowell M.</i>
+<i>Computer Engineering Student</i>
+<i>Technological Institute of the Philippines</i>
