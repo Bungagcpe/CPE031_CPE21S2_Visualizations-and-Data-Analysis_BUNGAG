@@ -2,11 +2,11 @@
 <p align="center"><i>This repository is only for CPE031 contents. Projects and Works will be uploaded here.</i></p>
 
 ## <h1 align="center">📊Contents📊</h1>
-📌Coding Activities
-📌Projects
-📌Data Sets
-📌Laboratory Reports
-📌Python-Related Works
+📌Coding Activities\
+📌Projects\
+📌Data Sets\
+📌Laboratory Reports\
+📌Python-Related Works\
 
 ## <h1 align="center">🌐Language Used🌐</h1>
 <img width="700" height="393" alt="image" src="https://github.com/user-attachments/assets/9d3bdc2c-8cc1-4986-834b-eaa9b66d824f" />
