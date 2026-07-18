@@ -1,4 +1,4 @@
-# <h1 align="center"> $\mathtt{CPE031 CPE21S2 Visualizations and Data Analysis BUNGAG}$</h1> 
+# <h1 align="center"> $\mathtt{Visualizations and Data Analysis}$</h1> 
 <p align="center"><i>This repository is only for CPE031 contents. Projects and Works will be uploaded here.</i></p>
 
 ## <h1 align="center">📊Contents📊</h1>
